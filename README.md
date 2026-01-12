@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-📊 Aspiring Data Analyst | Excel • SQL • Power BI  
+📊 Data Analyst | Excel • SQL • Power BI  
 🔍 Interested in Retail, E-commerce & Marketing Analytics  
 
 I enjoy working with data to uncover patterns, answer business questions, and turn insights into clear, actionable recommendations.  
