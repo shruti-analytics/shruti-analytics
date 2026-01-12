@@ -27,6 +27,8 @@ Currently building end-to-end analytics projects using real-world datasets.
 - 💼 LinkedIn: www.linkedin.com/in/shruti-disha-096937272
 - 📧 Email: shrutidisha02@gmail.com
 
-![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shruti-analytics&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shruti-analytics&show_icons=true&theme=radical&cache_seconds=86400)
+
 
 
