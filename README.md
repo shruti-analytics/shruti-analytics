@@ -1,27 +1,28 @@
 ## Hi there 👋
 
 
-📊 Data Analyst | Excel • SQL • Power BI  
-🔍 Interested in Retail, E-commerce & Marketing Analytics  
+I’m a Data Analyst focused on turning raw data into clear, actionable business insights.
+I work with real-world datasets to answer stakeholder questions, identify trends, and support data-driven decision-making — especially in retail, e-commerce, and marketing domains.
 
-I enjoy working with data to uncover patterns, answer business questions, and turn insights into clear, actionable recommendations.  
-Currently building end-to-end analytics projects using real-world datasets.
 
-## 🛠 Skills & Tools
-![Excel](https://img.shields.io/badge/Excel-Advanced-success)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-informational)
-![PowerBI](https://img.shields.io/badge/PowerBI-Intermediate-yellow)
-![Python](https://img.shields.io/badge/Python-Basics-lightgrey)
-
+🛠 Skills & Tools
+- **Excel**: Data cleaning, Pivot Tables, dashboards
+- **SQL**: Joins, CTEs, subqueries, aggregations
+- **Power BI**: Data modeling, DAX basics, interactive dashboards
 - Data Cleaning & Preparation  
 - Exploratory Data Analysis (EDA)  
 - KPI & Trend Analysis  
 - Dashboarding & Data Storytelling  
 
 ## 📈 What I’m Currently Working On
-- Strengthening SQL queries through case studies  
-- Creating clean, business-focused Power BI dashboards  
-- Improving data storytelling for non-technical stakeholders  
+- Building SQL-driven case studies focused on real business problems
+- Designing clean, stakeholder-friendly Power BI dashboards
+- Improving data storytelling to communicate insights clearly to non-technical audiences
+
+🎯 What I’m Looking For
+- Entry-level / junior data analyst roles or internships
+- Opportunities to work on business-focused analytics problems
+- Teams where I can grow through hands-on analysis and feedback
 
 ## 📬 Let’s Connect
 - 💼 LinkedIn: www.linkedin.com/in/shruti-disha-096937272
