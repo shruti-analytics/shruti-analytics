@@ -1,18 +1,28 @@
 ## Hi there 👋
 
 
-I’m a Data Analyst focused on turning raw data into clear, actionable business insights.
-I work with real-world datasets to answer stakeholder questions, identify trends, and support data-driven decision-making — especially in retail, e-commerce, and marketing domains.
+I am a Data Analyst who helps transform business questions into data-driven insights using SQL, Excel, and Power BI.  
+My focus is on solving real analytical problems in retail, e-commerce, and marketing.
+
+## 📂 Featured Projects
+Here are some of my key analytics projects with real insights and business context:
+
+- **AtliQMart Promotional Performance Analysis**  
+  Sales trends, promotional impact & product performance insights.
+
+- **CodeX Market Entry Consumer Insights Analysis**  
+  Consumer behavior analysis for strategic market entry.
+
+- **GoodCabs Operations & Market Performance Analysis**  
+  Trip performance and revenue trend evaluation across cities.
 
 
-🛠 Skills & Tools
-- **Excel**: Data cleaning, Pivot Tables, dashboards
-- **SQL**: Joins, CTEs, subqueries, aggregations
-- **Power BI**: Data modeling, DAX basics, interactive dashboards
-- Data Cleaning & Preparation  
-- Exploratory Data Analysis (EDA)  
-- KPI & Trend Analysis  
-- Dashboarding & Data Storytelling  
+## 🛠 Skills & Tools
+
+**Data Analysis:** KPI analysis, trend detection, data cleaning  
+**Tools:** Excel (Pivot & dashboards), SQL (CTEs, joins, subqueries), Power BI (Data modeling, DAX basics)  
+**Storytelling:** Translating insights for non-technical stakeholders
+ 
 
 ## 📈 What I’m Currently Working On
 - Building SQL-driven case studies focused on real business problems
